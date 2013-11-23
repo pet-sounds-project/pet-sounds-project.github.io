@@ -9,3 +9,7 @@ of
 * collecting the data
 * refining the logical structure of its presentation
 * refining the visual structure of its presentation
+
+Specifically tricky is the question regarding how to communicate the pronunciation from one to another language.
+There is an [international phonetic alphabet](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet) but
+maybe just using links to audio recordings or a semi-accurate transcription into English will do the job as well.
